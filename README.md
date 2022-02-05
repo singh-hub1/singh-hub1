@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vis2_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vis2_02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-singh-47a1201a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-singh-47a1201a6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-singh-47a1201a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-singh-47a1201a6" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishalsingh2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalsingh2020" height="30" width="40" /></a>
 <a href="https://instagram.com/vis2_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vis2_02" height="30" width="40" /></a>
 </p>
