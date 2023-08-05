@@ -1,4 +1,4 @@
-![Header](./https://github.com/singh-hub1/singh-hub1/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/singh-hub1/singh-hub1/blob/main/github-header-image%20(1).png?raw=true)
 
 <h1 align="center">Hey! 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate Backend Developer from India.</h3>
