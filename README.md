@@ -1,5 +1,5 @@
-![Header](./[github-header-image(1).png])
-![Header](./[Your header image])
+![Header](./https://github.com/singh-hub1/singh-hub1/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hey! 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate Backend Developer from India.</h3>
 
